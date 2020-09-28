@@ -1,0 +1,93 @@
+@font-face {
+  font-family: Raleway;
+  src: url(../../../assets//font/Raleway-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: Mulish;
+  src: url(../../../assets//font/Mulish-VariableFont_wght.ttf);
+}
+
+.done {
+  margin: 0;
+  margin-top: 110px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #1e8582;
+}
+
+.its_done {
+  margin: 0;
+  margin-top: 19px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #787878;
+}
+
+.title {
+  margin: 0;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  margin-top: 51px;
+  text-align: center;
+  color: #787878;
+}
+
+.title span {
+  color: #f8951b;
+}
+
+.email_done {
+  margin: 0 auto;
+  width: 713px;
+  height: 404px;
+  border: 0;
+  margin-top: 12px;
+}
+
+.email_img {
+  width: 713px;
+  height: 404px;
+}
+
+.thx {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  color: #787878;
+}
+
+.stepp_4 {
+  width: 200px;
+  height: 40px;
+  border: 0;
+  color: #ffffff;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 23px;
+  background: #f8951b;
+  border-radius: 30px;
+  margin-top: 39px;
+  cursor: pointer;
+  margin-bottom: 230px;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+}

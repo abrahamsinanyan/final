@@ -1,0 +1,12 @@
+.header {
+  width: auto;
+  height: 119px;
+  border: 1px solid #e5e5e5;
+}
+
+.header_Logo_contenier {
+  width: 98px;
+  height: 52px;
+  margin-left: 42px;
+  margin-top: 39px;
+}

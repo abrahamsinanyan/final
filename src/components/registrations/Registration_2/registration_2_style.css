@@ -1,0 +1,139 @@
+@font-face {
+  font-family: Raleway;
+  src: url(../../../assets//font/Raleway-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: Mulish;
+  src: url(../../../assets//font/Mulish-VariableFont_wght.ttf);
+}
+
+.info_reg2 {
+  display: flex;
+  justify-content: center;
+}
+
+.inputs_reg2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.email {
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 3px;
+  width: 350px;
+  height: 40px;
+  padding-left: 16px;
+}
+
+.btns_reg2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  margin-bottom: 230px;
+}
+
+.prev_reg2 {
+  cursor: pointer;
+  width: 200px;
+  height: 40px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  color: #f8951b;
+  background-color: #ffffff;
+  margin-right: 196px;
+  border: 1px solid #f8951b;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+
+.cont_reg2 {
+  cursor: pointer;
+  width: 200px;
+  height: 40px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  border: 0;
+  color: #ffffff;
+  background: #f8951b;
+  border-radius: 30px;
+}
+
+.inputs_number_country_reg2 {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 350px;
+  justify-content: center;
+}
+
+.phone_number {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 3px;
+  width: 240px;
+  height: 40px;
+  padding-left: 16px;
+}
+
+.select_county_code {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #1e8582;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 3px;
+  width: 110px;
+  height: 40px;
+  padding-left: 16px;
+}
+
+.code {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #787878;
+  margin: 0;
+  margin-top: 34px;
+  margin-bottom: 7px;
+}
+
+.code_country {
+  margin-left: 91px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #787878;
+}
+
+.error_email {
+  width: 350px;
+  margin: 0 auto;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #ff0a0a;
+}

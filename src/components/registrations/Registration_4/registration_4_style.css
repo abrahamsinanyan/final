@@ -1,0 +1,151 @@
+@font-face {
+    font-family: Raleway;
+    src: url(../../../assets//font/Raleway-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Mulish;
+    src: url(../../../assets//font/Mulish-VariableFont_wght.ttf);
+}
+
+.title_reg4 {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-top: 76px;
+}
+
+.title_p_reg4 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    margin-right: 28px;
+    color: #273469;
+}
+
+.inputs_reg4 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.inputs_reg4 p {
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 34px;
+    margin-bottom: 7px;
+    color: #787878;
+}
+
+.name_reg4 {
+    width: 350px;
+    height: 40px;
+    margin: 0 auto;
+    border: 1px solid #e5e5e5;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.a {
+    width: 350px;
+}
+
+.visa_logo {
+    width: 30px;
+    height: 21.43px;
+    background: #224dba;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+    position: absolute;
+    margin-left: 312px;
+    top: 662px;
+}
+
+.name_row_reg4 {
+    width: 155px;
+    height: 40px;
+    margin: 0 auto;
+    border: 1px solid #e5e5e5;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.padding_input {
+    padding-right: 40px;
+}
+
+.text_line {
+    display: flex;
+    align-items: center;
+}
+
+.text_line img {
+    width: 15px;
+    height: 15px;
+    padding-left: 6px;
+}
+
+.inputs_row {
+    display: flex;
+}
+
+#quiz {
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 28px;
+    margin-bottom: 54px;
+    text-decoration-line: underline;
+    color: #1e8582;
+}
+
+.btns_reg4 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 230px;
+}
+
+.prev_reg4 {
+    border: 1px solid #f8951b;
+    box-sizing: border-box;
+    border-radius: 30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    width: 200px;
+    height: 40px;
+    align-items: center;
+    text-align: center;
+    color: #f8951b;
+    background: #ffffff;
+}
+
+.cont_prev4 {
+    width: 200px;
+    height: 40px;
+    background: #f8951b;
+    border-radius: 30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    margin-left: 196px;
+    font-size: 18px;
+    line-height: 23px;
+    border: 0;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+}

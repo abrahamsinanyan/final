@@ -1,0 +1,100 @@
+@font-face {
+  font-family: Raleway;
+  src: url(../../assets/font/Raleway-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: Mulish;
+  src: url(../../assets/font/Mulish-VariableFont_wght.ttf);
+}
+
+.regitration_text {
+  margin: 0;
+  margin-top: 72px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #1e8582;
+}
+
+.title {
+  margin: 0;
+  margin-top: 15px;
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  text-align: center;
+  font-size: 16px;
+  line-height: 20px;
+  color: #787878;
+}
+
+.stepper_line {
+  display: flex;
+  justify-content: center;
+  width: 591px;
+  height: 5px;
+  margin: 0 auto;
+  margin-top: 49px;
+  background: #e5e5e5;
+  border-radius: 30px;
+}
+
+.stepp_counter1 {
+  position: absolute;
+  display: flex;
+  justify-content: flex-end;
+  height: 5px;
+  margin-right: 537px;
+  background: #49b8ad;
+  border-radius: 30px;
+}
+
+.stepp_counter2 {
+  position: absolute;
+  display: flex;
+  justify-content: flex-end;
+  height: 5px;
+  background: #49b8ad;
+  border-radius: 30px;
+}
+
+.stepp_counter3 {
+  position: absolute;
+  display: flex;
+  justify-content: flex-end;
+  height: 5px;
+  background: #49b8ad;
+  border-radius: 30px;
+}
+
+.count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: -9px;
+  border-radius: 15px;
+  background: #49b8ad;
+  border: 2px solid #ffffff;
+  box-sizing: border-box;
+  box-shadow: -1px 4px 4px rgba(30, 133, 130, 0.17);
+}
+
+.stepp_title {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 13px;
+  color: #1e8582;
+  margin-top: 22px;
+  position: absolute;
+  margin-right: -10px;
+}

@@ -1,0 +1,73 @@
+@font-face {
+  font-family: Raleway;
+  src: url(../../../assets//font/Raleway-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: Mulish;
+  src: url(../../../assets//font/Mulish-VariableFont_wght.ttf);
+}
+
+.cont_5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.verf {
+  margin: 0 auto;
+  margin-top: 232px;
+  text-align: center;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #1e8582;
+  width: 566px;
+}
+
+.pls_enter {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 auto;
+  text-align: center;
+  color: #787878;
+  width: 411px;
+  margin-top: 19px;
+}
+
+.input_code {
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 3px;
+  width: 350px;
+  height: 40px;
+  margin: 0 auto;
+  margin-top: 82px;
+  display: flex;
+}
+
+.verf_btn {
+  width: 200px;
+  height: 40px;
+  cursor: pointer;
+  background: #f8951b;
+  border-radius: 30px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 23px;
+  margin-top: 74px;
+  border: 0;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 230px;
+}

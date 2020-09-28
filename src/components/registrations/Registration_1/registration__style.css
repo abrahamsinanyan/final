@@ -1,0 +1,151 @@
+@font-face {
+  font-family: Raleway;
+  src: url(../../../assets//font/Raleway-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: Mulish;
+  src: url(../../../assets//font/Mulish-VariableFont_wght.ttf);
+}
+
+.select {
+  display: flex;
+  justify-content: center;
+}
+
+.title_r {
+  margin-top: 76px;
+  text-align: left;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  color: #273469;
+}
+
+.title_contenier {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.selects {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.selects select {
+  width: 350px;
+  height: 40px;
+  margin-bottom: 34px;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 3px;
+  padding-left: 17px;
+}
+
+.input_type input {
+  width: 350px;
+  height: 40px;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 3px;
+  padding-left: 16px;
+}
+
+.input_type {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.line {
+  width: 180px;
+  height: 0px;
+  left: 941px;
+  top: 414px;
+  border: 1px solid #273469;
+}
+
+.text_county {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  margin-bottom: 17px;
+  color: #787878;
+  margin: 0;
+  margin-top: 34px;
+  margin-bottom: 7px;
+}
+
+.prev_next_btn {
+  display: flex;
+  margin-bottom: 230px;
+}
+
+.incorrect_message {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #ff0a0a;
+}
+
+.continue {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 23px;
+  margin-top: 195px;
+  cursor: pointer;
+  width: 200px;
+  height: 40px;
+  border: 0;
+  color: #ffffff;
+  background: #f8951b;
+  border-radius: 30px;
+}
+
+.prev_spepp {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 23px;
+  cursor: pointer;
+  margin-top: 195px;
+  color: #f8951b;
+  background-color: #ffffff;
+  margin-right: 193px;
+  width: 200px;
+  height: 40px;
+  border: 1px solid #f8951b;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+
+.prev_next_btn {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 230px;
+}
+
+#valid_false {
+  margin-left: 400px;
+}
+
+.btns_reg2 {
+  display: flex;
+  justify-content: center;
+}
+
+.prev_reg2 {
+  margin-right: 196px;
+}
